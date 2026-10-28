@@ -1,5 +1,5 @@
 ---
-title: "Team [TEAM NAME] — Intro"
+title: "Team Honest — Intro"
 format: html
 ---
 
@@ -12,6 +12,7 @@ format: html
 ```
 
 - Maneli
+- Ivan Tse
 
 ## Team Visualizations
 
