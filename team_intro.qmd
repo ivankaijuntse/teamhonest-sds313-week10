@@ -13,11 +13,9 @@ format: html
      
 ```
 
-
 - Maneli
 - Ivan Tse
 - Lisa Li
- main
 
 ## Team Visualizations
 
