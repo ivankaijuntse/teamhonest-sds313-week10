@@ -1,5 +1,5 @@
 ---
-title: "Team [TEAM NAME] — Intro"
+title: "Team Honest — Intro"
 format: html
 ---
 
@@ -8,11 +8,16 @@ format: html
 ```{=html}
 <!-- Everyone: add your name below, one per line. You will likely collide with a teammate
      editing this same list at the same time — that's expected, and it's your first real
+ Lisa-intro
      merge conflict. Resolve it together rather than one person overwriting the other. --> 
      
 ```
 
+```
+
+- Ivan Tse
 - Lisa Li
+ main
 
 ## Team Visualizations
 
