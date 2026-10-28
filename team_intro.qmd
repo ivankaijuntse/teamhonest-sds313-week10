@@ -13,7 +13,6 @@ format: html
      
 ```
 
-```
 
 - Maneli
 - Ivan Tse
